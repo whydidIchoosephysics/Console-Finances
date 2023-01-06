@@ -20,5 +20,7 @@ and the value was divided by the length of the array
 - For the Greatest Increase in Profits:
 "Math.max.apply(Math, changeInProfit)" was used to find the maximum value in the array and
 "changeInProfit.indexOf(largestProfit)" was used to find the index of that value so the Month could be determined
+    - Result: Feb-2012 and 1 926 159
 
 - For the Greatest Decrease in Losses the same was done but min was used instead
+    - Result: Sep-2013 and -2 196 167
