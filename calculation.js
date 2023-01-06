@@ -4,7 +4,7 @@ let howmanyMonths = finances.length;
 console.log("The total amount of months is", howmanyMonths);
 
 
-// Calculate the Net Prodit/Loses
+// Calculate the Net Profit/Loses
 let netProfit = 0;
 
 for (let month in finances) {

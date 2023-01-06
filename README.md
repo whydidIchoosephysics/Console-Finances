@@ -24,3 +24,5 @@ and the value was divided by the length of the array
 
 - For the Greatest Decrease in Losses the same was done but min was used instead
     - Result: Sep-2013 and -2 196 167
+
+- Sorting could also be used to find max and min values
