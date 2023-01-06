@@ -58,7 +58,7 @@ let worstLossIndex = changeInProfit.indexOf(worstLoss);
 
 console.log(worstLoss);
 console.log (worstLossIndex);
-console.log("The greatest decrease is losses", finances[worstLossIndex][0],
+console.log("The greatest decrease is losses in", finances[worstLossIndex][0],
  "with a value of", worstLoss);
 
 
