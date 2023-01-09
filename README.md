@@ -16,7 +16,8 @@ using a for loop
 a for loop, nesting an if statement was used to calculate the values
 
 - The average was calculated by summing the values in the new array using the same for loop as the first one,
-and the value was divided by the length of the array (including th efirst month)
+and the value was divided by the length of the array (including the first month)
+  - Average change: 446309.05
 
 - For the Greatest Increase in Profits:
 "Math.max.apply(Math, changeInProfit)" was used to find the maximum value in the array and
