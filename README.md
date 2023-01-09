@@ -1,5 +1,7 @@
 # Console-Finances
 
+![My Image](console-image.png)
+
 Code for analyzing the financial records of a company  with financial dataset in the starter/index.js file.
 
 - A second JavaScript File was created with the scope to have the data and the code that did all the calculations
