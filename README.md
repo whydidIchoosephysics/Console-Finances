@@ -1,4 +1,5 @@
-## Console-Finances
+# Console-Finances
+
 Code for analyzing the financial records of a company  with financial dataset in the starter/index.js file.
 
 - A second JavaScript File was created with the scope to have the data and the code that did all the calculations
@@ -20,9 +21,9 @@ and the value was divided by the length of the array (including th efirst month)
 - For the Greatest Increase in Profits:
 "Math.max.apply(Math, changeInProfit)" was used to find the maximum value in the array and
 "changeInProfit.indexOf(largestProfit)" was used to find the index of that value so the Month could be determined
-    - Result: Feb-2012 and 1 926 159
+  - Result: Feb-2012 and 1 926 159
 
 - For the Greatest Decrease in Losses the same was done but min was used instead
-    - Result: Sep-2013 and -2 196 167
+  - Result: Sep-2013 and -2 196 167
 
 - Sorting could also be used to find max and min values
